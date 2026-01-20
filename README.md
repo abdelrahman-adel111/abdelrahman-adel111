@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hey there, I'm [Abdelrahman Elsharkawi](https://www.linkedin.com/in/abdelrahman-adel-648a58363/) 👋
+# Hey there, I'm [Abdelrahman Elsharkawi](www.linkedin.com/in/abdelrahman-elsharkawi-648a58363) 👋
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student%20at%20Faculty%20Engineering;Always%20Learning%20New%20Technology"
 </p>
