@@ -2,10 +2,11 @@
 
 # Hey there, I'm [Abdelrahman Elsharkawi](https://www.linkedin.com/in/abdelrahman-elsharkawi-648a58363/) 👋
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student%20at%20Faculty%20Engineering;Always%20Learning%20New%20Technology"
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analysis%20,%20DataBase%20Developer;Student%20at%20Faculty%20of%20Engineering;Always%20Learning%20New%20Technology"
 </p>
 
 **Student at the College of Engineering · Computers and Control Engineering 👨‍💻** <br>
+
 <dev>interesting in Data Science , ML and DL</dev>
 <!--
 **abdelrahman-adel111/abdelrahman-adel111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
